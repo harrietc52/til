@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# TIL
 
-You can use the [editor on GitHub](https://github.com/harrietc52/til/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> Today I Learned
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A repository of short notes and code snippets categorized by technology.
 
-### Markdown
+Inspired by [James Glover](https://github.com/JamesGlover/til) who was in turn
+inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Thoughtbot](https://github.com/thoughtbot/til).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Github pages version](https://harrietc52.github.io/til/)
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### Categories
 
-- Bulleted
-- List
+* [Git](#git)
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### Git
 
-[Link](url) and ![Image](src)
-```
+- [Delete Git branches](git/delete_branch.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harrietc52/til/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
