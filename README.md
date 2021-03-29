@@ -14,10 +14,16 @@ inspired by [Josh Branchaud](https://github.com/jbranchaud/til) and [Thoughtbot]
 ### Categories
 
 * [Git](#git)
+* [Python](#python)
 
 ---
 
 ### Git
 
 - [Delete Git branches](git/delete_branch.md)
+
+
+### Python
+
+- [Constant inside regex formatter](python/constant_inside_regex.md)
 
